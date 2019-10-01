@@ -1,0 +1,30 @@
+{
+  "name": "votaciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "dev": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffrey2423/votaciones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffrey2423/votaciones/issues"
+  },
+  "homepage": "https://github.com/jeffrey2423/votaciones#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "mysql": "^2.17.1",
+    "npm": "^6.11.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
